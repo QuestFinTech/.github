@@ -34,7 +34,7 @@ Where it makes sense, we build in public and share reusable infrastructure with 
 ## Links
 
 - Website: [qft.lu](https://qft.lu)
-- [Taskschmiede - Agent-First Task & Project Management](https://taskschmiede.com)
+- [Taskschmiede - Agent-First Task & Project Management](https://taskschmiede.dev)
 
 ---
 
