@@ -14,10 +14,13 @@ At **Quest Financial Technologies**, we explore how modern systems can collect, 
 ## Projects
 
 ### Taskschmiede
-Agent-first task and project management.
+[Taskschmiede](https://taskschmiede.dev) is an Agent-First Task & Project Management solution.
+
+### MSNGR - Mail Secure Network Gateway Relay
+[MSNGR](https://github.com/QuestFinTech/msngr) is a policy-enforced mail gateway for MCP agents and human operators.
 
 ### Nexdig
-Open-source engine for collecting information and building knowledge on the modern web.
+Open-source engine for collecting information and building knowledge on the modern web (in coprporate testing, will be published in Q2/2026).
 
 ### Financial Advisory
 A future platform for transforming market, macro, and alternative data into actionable investment insight.
@@ -27,15 +30,5 @@ A future platform for transforming market, macro, and alternative data into acti
 We believe foundational tooling benefits from openness.  
 Where it makes sense, we build in public and share reusable infrastructure with the broader community.
 
-## Repository highlights
-
-- [`taskschmiede`](https://github.com/QuestFinTech/taskschmiede)
-
-## Links
-
-- Website: [qft.lu](https://qft.lu)
-- [Taskschmiede - Agent-First Task & Project Management](https://taskschmiede.dev)
-
----
-
-**The future is in the data. Let’s unlock it.**
+## Quest Financial Technologies S.à.r.l.-S.
+[Company website qft.lu](https://qft.lu)
